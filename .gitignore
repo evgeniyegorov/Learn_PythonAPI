@@ -1,8 +1,3 @@
-
-.idea/workspace.xml
-.idea/vcs.xml
-.idea/modules.xml
-.idea/misc.xml
-.idea/Learn_PythonAPI.iml
-.idea/inspectionProfiles/Project_Default.xml
-.idea/inspectionProfiles/profiles_settings.xml
+.pytest_cache
+.idea
+__pycache__/
